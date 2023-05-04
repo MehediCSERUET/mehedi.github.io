@@ -11,9 +11,9 @@ title                    : "Mehedi's Homepage"
 title_separator          : "-"
 name                     : &name "Md Mehedi Hasan"
 description              : &description "Md Mehedi Hasan is a Lecturer at the department of Mechatronics Engineering, Rajshahi University of Engineering & Technology(RUET), Bangladesh. His research interest includes Computer Vision, Machine Learning, Human Computer Interaction and Robotics."
-url                      : https://mehedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mehedicseruet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mehedicseruet/mehedi.github.io"
+repository               : "mehedicseruet/mehedicseruet.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
