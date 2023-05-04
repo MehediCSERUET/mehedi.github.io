@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehedi's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Md Mehedi Hasan"
 description              : &description "Md Mehedi Hasan is a Lecturer at the department of Mechatronics Engineering, Rajshahi University of Engineering & Technology(RUET), Bangladesh. His research interest includes Computer Vision, Machine Learning, Human Computer Interaction and Robotics."
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Md Mehedi Hasan"
   avatar           : "mehedi.png"
-  bio              : "Md Mehedi Hasan is a Lecturer at the department of Mechatronics Engineering, Rajshahi University of Engineering & Technology(RUET), Bangladesh. His research interest includes Computer Vision, Machine Learning, Human Computer Interaction and Robotics"
+  bio              : "Lecturer, Dept. of Mechatronics Engineering, Rajshahi University of Engineering & Technology"
   location         : "Rajshahi, Bangladesh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gzBxyLMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Md-Hasan-287"
   uri              :
   bitbucket        :
   codepen          :
