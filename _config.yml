@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Md Mehedi Hasan"
   avatar           : "mehedi.png"
-  bio              : "Lecturer, Dept. of Mechatronics Engineering, Rajshahi University of Engineering & Technology"
+  bio              : "Lecturer, Dept. of Mechatronics Engineering"
   location         : "Rajshahi, Bangladesh"
-  employer         :
+  employer         : "Rajshahi University of Engineering & Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gzBxyLMAAAAJ&hl=en"
   email            :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mehedi-hasan-4a875b126/"
+  linkedin         : "mehedi-hasan-4a875b126/"
   orcid            : "https://orcid.org/0000-0002-2872-978X"
   pinterest        :
   soundcloud       :
