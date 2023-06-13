@@ -34,3 +34,10 @@ Work Experience
 <li>Rajshahi University of Engineering & Technology: June 1, 2021 - Present</li>
 <li>Bangladesh Army University of Engineering & Technology: September 8, 2019 - May 31, 2021</li>
 </ul>
+
+News
+======
+<ul>
+<li>15.05.2023--Completed M.Sc. Engineering in CSE from RUET</li>
+<li>08.05.2023--Published a preprint in arXiv titled "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks"</li>
+</ul>
