@@ -12,8 +12,11 @@ Md Mehedi Hasan is a Lecturer at the department of Mechatronics Engineering, Raj
 
 Education
 ======
-M.Sc. in Computer Science & Engineering, Rajshahi University of Engineering & Technology, 2023
-B.Sc. in Computer Science & Engineering, Rajshahi University of Engineering & Technology, 2019
+<ul>
+<li>
+M.Sc. in Computer Science & Engineering, Rajshahi University of Engineering & Technology, 2023</li>
+<li>B.Sc. in Computer Science & Engineering, Rajshahi University of Engineering & Technology, 2019</li>
+</ul>
 
 Research Interests
 ======
