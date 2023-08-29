@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Mehedi Hasan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,9 +23,8 @@ Research Interests
 <ul>
 <li>Computer Vision</li>
 <li>Machine Learning</li>
-<li>Artificial Intelligence</li>
+<li>Medical Image Processing</li>
 <li>Robotics</li>
-<li>Medical Imaging</li>
 </ul>
 
 Work Experience
@@ -39,5 +38,15 @@ News
 ======
 <ul>
 <li>15.05.2023--Completed M.Sc. Engineering in CSE from RUET</li>
+<li>08.05.2023--Published a preprint in arXiv titled "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks"</li>
+</ul>
+
+
+Publications
+============
+Journals
+========
+<ul>
+<li><a href="/files/Journals/J1.pdf">A.R. Anik, K. Islam, M. Islam, M.M. Hasan, S.K. Das and M.F. Ali, ”Non-invasive Portable Technologies for Monitoring Breast Cancer Related Lymphedema to Facilitate Telehealth: A Scoping Review”, IEEE Journal of Biomedical and Health Informatics (J-BHI), 2023.</a></li>
 <li>08.05.2023--Published a preprint in arXiv titled "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks"</li>
 </ul>
