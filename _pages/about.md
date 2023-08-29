@@ -57,10 +57,14 @@ Journals
 <li><a href="/files/Journals/J8.pdf">A. Sayeed, J. Shin, M. A.M. Hasan, A. Y. Srizon, and <em>M. M. Hasan</em>, ”BengaliNet: A low-cost novel convolutional neural network for Bengali handwritten characters recognition.” Applied Sciences 11, no. 15(2021): 6845</a></li>
 <li><a href="/files/Journals/J9.pdf">S. S. Uddin, R. Joysoyal, S. K. Sarker, S.M. Muyeen, M. F. Ali, <em>M. M. Hasan</em>, S. H. Abhi, M. R. Islam, M. H. Ahamed, M. M. Islam, S. K. Das, M. F. R. Badal, P. Das, Z. Tasneem, "Next-generation blockchain enabled smart grid: Conceptual framework, key technologies and industry practices review", Energy and AI, Elsevier</a></li>
 </ol>
+
+<hr>
 Conferences
 <hr>
+
 <ol>
-<li><a href="/files/Conferences/C1.pdf"></a><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”JuktoMala: A Handwritten Bengali Consonant Conjuncts Dataset for Optical Character Recognition Using BiT-based M-ResNet-101x3 Architecture,” 3rd International Conference on Electrical, Computer and Communication Engineering (ECCE 2023), Chottogram, Bangladesh, 2023, pp. 1-4</li>
+<li><a href="/files/Conferences/C1.pdf"><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”JuktoMala: A Handwritten Bengali Consonant Conjuncts Dataset for Optical Character Recognition Using BiT-based M-ResNet-101x3 Architecture,” 3rd International Conference on Electrical, Computer and Communication Engineering (ECCE 2023), Chottogram, Bangladesh, 2023, pp. 1-4</a></li>
+
 <li><a href="/files/Conferences/C2.pdf">A. Y. Srizon, M. A. Hossain, A. Sayeed and <em>M. M. Hasan</em>, “An Effective Approach for Handwritten Punctuation Recognition by Using a Low-cost Convolutional Neural Network.” In 2022 4th International Conference on Sustainable Technologies for Industry 4.0, pp.1-6. IEEE, 2022</a></li>
 <li><a href="/files/Conferences/C3.pdf"><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”ComNet: A Deep Convolutional Neural Network Capable of Classifying Compound Bengali Handwritten Characters High Number of Classes in a Data-Scarce State,” 2022 International Conference on Computer and Information Technology (ICCIT), Cox Bazar, Bangladesh, 2022, pp. 1-4</a></li>
 <li><a href="/files/Conferences/C4.pdf"><em>M. M. Hasan</em>, A. Y. Srizon, A. Sayeed and M. A. M. Hasan, ”High Performance Classification of Caltech-101 with a Transfer Learned Deep Convolutional Neural Network,” 2021 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), Dhaka, Bangladesh, 2021, pp.35-39,doi:10.1109/ICICT4SD50815.2021.9396917</a></li>
