@@ -43,10 +43,61 @@ News
 
 
 Publications
-============
+=======
 Journals
-========
+<hr>
 <ul>
-<li><a href="/files/Journals/J1.pdf">A.R. Anik, K. Islam, M. Islam, M.M. Hasan, S.K. Das and M.F. Ali, ”Non-invasive Portable Technologies for Monitoring Breast Cancer Related Lymphedema to Facilitate Telehealth: A Scoping Review”, IEEE Journal of Biomedical and Health Informatics (J-BHI), 2023.</a></li>
-<li>08.05.2023--Published a preprint in arXiv titled "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks"</li>
+<li><a href="/files/Journals/J1.pdf">A.R. Anik, K. Islam, M. Islam, <em>M.M. Hasan</em>, S.K. Das and M.F. Ali, ”Non-invasive Portable Technologies for Monitoring Breast Cancer Related Lymphedema to Facilitate Telehealth: A Scoping Review”, IEEE Journal of Biomedical and Health Informatics (J-BHI), 2023.</a></li>
+<li><a href="/files/Journals/J2.pdf">S.H. Chowdhury, M. Sany, M. Ahamed, S.K. Das, F.R. Badal, P. Das, Z. Tasneem, <em>M.M. Hasan</em>, M. Islam, M. Ali, and S.H. Abhi, ”A State-of-the-Art Computer Vision Adopting Non-Euclidean Deep-Learning Models”, International Journal of Intelligent Systems, 2023.</a></li>
+<li><a href="/files/Journals/J3.pdf">A. Mazumder, M.F. Sahed, Z. Tasneem, P. Das, F.R. Badal, M.F. Ali, M.H. Ahamed, S.H. Abhi, S.K. Sarker, S.K. Das, <em>M.M. Hasan</em>, M.M. Islam, M.R. Islam, ”Towards next generation digital twin in robotics: Trends, scopes, challenges, and future.” Heliyon (2023)</a></li>
+<li><a href="/files/Journals/J4.pdf">C. Das, A.A. Mumu, M.F. Ali, S.K. Sarker, S.M. Muyeen, S.K. Das, P. Das, <em>M.M. Hasan</em>, Z. Tasneem, M.M. Islam, M.R. Islam, F.R. Badal, M.H. Ahamed, S.H. Abhi, ”Toward IoRT Collaborative Digital Twin Technology Enabled Future Surgical Sector: Technical Innovations, Opportunities and Challenges”, in IEEE Access, vol. 10, pp.129079-129104, 2022, doi: 10.1109/ACCESS.2022.3227644</a></li>
+<li><a href="/files/Journals/J5.pdf">M. Mashiata, T. Ali, P. Das, Z. Tasneem, M.F.R. Badal, S.K. Sarker, <em>M. M. Hasan</em> et al. ”Towards assisting visually impaired individuals: A review on current status and future prospects.” Biosensors and Bioelectronics: X 12 (2022): 100265</a></li>
+<li><a href="/files/Journals/J6.pdf">M. M. H. Sifat, S. M. Choudhury, S. K. Das, M. H. Ahamed, S. M. Muyeen, <em>M. M. Hasan</em>, M. F. Ali et al. ”Towards electric digital twin grid: Technology and framework review.” Energy and AI (2022): 100213</a></li>
+<li><a href="/files/Journals/J7.pdf">A. Biswas, M.A.O. Reon, P. Das, Z. Tasneem, S.M. Muyeen, S.K. Das, F.R. Badal, S.K. Sarker, <em>M.M. Hasan</em>, S.H. Abhi, M.R. Islam, M.F. Ali, M.H. Ahamed, M.M. Islam, ”State-of-the-Art Review on Recent Advancements on Lateral Control of Autonomous Vehicles,” in IEEE Access, vol. 10, pp. 114759-114786, 2022, doi: 10.1109/ACCESS.2022.3217213</a></li>
+<li><a href="/files/Journals/J8.pdf">A. Sayeed, J. Shin, M. A.M. Hasan, A. Y. Srizon, and <em>M. M. Hasan</em>, ”BengaliNet: A low-cost novel convolutional neural network for Bengali handwritten characters recognition.” Applied Sciences 11, no. 15(2021): 6845</a></li>
+<li><a href="/files/Journals/J9.pdf">S. S. Uddin, R. Joysoyal, S. K. Sarker, S.M. Muyeen, M. F. Ali, <em>M. M. Hasan</em>, S. H. Abhi, M. R. Islam, M. H. Ahamed, M. M. Islam, S. K. Das, M. F. R. Badal, P. Das, Z. Tasneem, "Next-generation blockchain enabled smart grid: Conceptual framework, key technologies and industry practices review", Energy and AI, Elsevier</a></li>
+</ul>
+Conferences
+<hr>
+<ul>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
 </ul>
