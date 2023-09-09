@@ -63,7 +63,7 @@ Conferences
 <hr>
 
 <ol>
-<li><p><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”JuktoMala: A Handwritten Bengali Consonant Conjuncts Dataset for Optical Character Recognition Using BiT-based M-ResNet-101x3 Architecture,” 3rd International Conference on Electrical, Computer and Communication Engineering (ECCE 2023), Chottogram, Bangladesh, 2023, pp. 1-4</p><br><a href="/files/Conferences/C1.pdf">PDF</a></li>
+<li><p><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”JuktoMala: A Handwritten Bengali Consonant Conjuncts Dataset for Optical Character Recognition Using BiT-based M-ResNet-101x3 Architecture,” 3rd International Conference on Electrical, Computer and Communication Engineering (ECCE 2023), Chottogram, Bangladesh, 2023, pp. 1-4</p><a href="/files/Conferences/C1.pdf">PDF</a></li>
 
 <li><a href="/files/Conferences/C2.pdf">A. Y. Srizon, M. A. Hossain, A. Sayeed and <em>M. M. Hasan</em>, “An Effective Approach for Handwritten Punctuation Recognition by Using a Low-cost Convolutional Neural Network.” In 2022 4th International Conference on Sustainable Technologies for Industry 4.0, pp.1-6. IEEE, 2022</a></li>
 <li><a href="/files/Conferences/C3.pdf"><em>M. M. Hasan</em>, M. A. Hossain, A.Y. Srizon and A. Sayeed, ”ComNet: A Deep Convolutional Neural Network Capable of Classifying Compound Bengali Handwritten Characters High Number of Classes in a Data-Scarce State,” 2022 International Conference on Computer and Information Technology (ICCIT), Cox Bazar, Bangladesh, 2022, pp. 1-4</a></li>
