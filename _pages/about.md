@@ -47,6 +47,27 @@ Publications
 Journals
 <hr>
 <ol>
+<li><em>M. M. Hasan</em>, M.A. Hossain, A.Y. Srizon, and A. Sayeed. "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks." arXiv preprint arXiv:2305.04402 (2023).</li>
+      
+<li>A. Y. Srizon, M. A. Hossain, <em>M. M. Hasan</em>, A. Sayeed, “Bornomala-Net: An Attention-Based Low-Cost Convolutional Neural Network for Bengali Handwritten Character Recognition”, Pattern Analysis and Applications. Springer. [Under Review].</li>
+
+<li>S.A. Hasib, S. Islam, M. F. Ali, S. K. Sarker, Li Li, <em>M. M. Hasan</em>, S. I. Moyeen, D. k. Saha, "Enhancing Prediction Accuracy of Remaining Useful Life in Lithium-ion Batteries: A Deep Learning Approach with Bat Optimizer", Energy Reports, Elsevier [Under Review]</li>
+
+<li>D. J. Paul, M. Farhad, R. Islam, F.R. Badal, S.H. Abhi, M. M. Islam, S.K. Sarker, S.K. Das,  P. Das, Z. Tasneem, <em>M. M. Hasan</em>, M. F. Ali, M. H. Ahamed, "Towards Next Generation Human-Robot Interaction in Industry 5.0: Technological Reviews, Challenges, and Prospects", IEEE Access, [Under Review]</li>
+
+
+<li>S.K. Biswas, <em>M. M. Hasan</em>, M. M. Islam, S. K. Sarker,S. K. Das, M. F. R. Badal,P.Das, S.I. Moyeen, M.H.Ahamed, M.R. Islam, M.F. Ali, S. H. Abhi, "Towards Virtual Modern Offices based on Metaverse: Framework, Trends, and Recommendation", Heliyon, Elsevier [Under Review]</li>
+
+<li>A. I. Shawon, R. Zara, M. M. Islam, <em>M. M. Hasan</em>, S. M. Muyeen, S. K. Das, P. Das, Z. Tasneem, R. Islam, F. R Badal, M. F. Ali, M. H. Ahmed, S.H. Abhi, S.K. Sarker, "Pedestrian Safety through Trajectory Prediction: State-of-the-Art Technologies, Strategies, Challenges, and Future Directions — A Scoping Review", IEEE Access [Under Review]</li>
+
+<li>R. R. Fahim, S. M. Jaoyad; P. Das, M. H. Ahamed, S. K. Sarker, S. H. Abhi, <em>M. M. Hasan</em>, S.K. Das, M. F. Ali, M. M. Islam, M. R. Islam, S. I. Moyeen, M. F. R. Badal, "Market twin: A review on blockchain based digital twin for market intelligence, business growth, predicting future trends customer behavior, and competitor manipulation", Journal of Computation Science, Elsevier [Under Review]</li>
+
+<li>S. M. Peash, M. F. Hossain, P. Das, S. K. Sarker, S. H. Abhi, <em>M. M. Hasan</em>, S. K. Das, M. F. Ali, M. M. Islam, M. R. Islam, S. I. Moyeen, M. F. R. Badal, M. H. Ahamed, "Review on Recent Advancement of UAV Autonomous Landing Maneuvers on a Moving Platform", Aerospace Science and Technology, Elsevier [Under Review]</li>
+
+<li>M. A. B. Siddik, A. Islam, S. H. Abhi, M. F. Ali, M. M. Islam, M. R. Islam, S. I. Moyeen, M. F. R. Badal, M. H. Ahamed, S. K. Sarker, P. Das, <em>M. M. Hasan</em>, S. K. Das, "Deep Learning and Natural Language Processing in Neuroradiology: Towards Next Generation Cutting Edge Technology in Healthcare", Computers in Biology and Medicine, Elsevier [Under Review]</li>
+
+<li>B. J. Paul, A.Sarker, S.H. Abhi, S.K. Das, M. F. Ali, M. M. Islam, M. R. Islam, S.I. Moyeen, M.F.R. Badal, M. H. Ahmed, S.K. Sarker, P.Das, <em>M. M. Hasan</em>, N.Saqib, "Potential Smart Grid Vulnerabilities to Cyber Attacks: Current Threats and Existing Mitigation Strategies", Heliyon, Elsevier [Under Review]
+</li>
 <li><p>A.R. Anik, K. Islam, M. Islam, <em>M.M. Hasan</em>, S.K. Das and M.F. Ali, ”Non-invasive Portable Technologies for Monitoring Breast Cancer Related Lymphedema to Facilitate Telehealth: A Scoping Review”, IEEE Journal of Biomedical and Health Informatics (J-BHI), 2023.</p><a href="/files/Journals/J1.pdf">PDF</a></li>
 <li><p>S.H. Chowdhury, M. Sany, M. Ahamed, S.K. Das, F.R. Badal, P. Das, Z. Tasneem, <em>M.M. Hasan</em>, M. Islam, M. Ali, and S.H. Abhi, ”A State-of-the-Art Computer Vision Adopting Non-Euclidean Deep-Learning Models”, International Journal of Intelligent Systems, 2023.</p><a href="/files/Journals/J2.pdf">PDF</a></li>
 <li><p>A. Mazumder, M.F. Sahed, Z. Tasneem, P. Das, F.R. Badal, M.F. Ali, M.H. Ahamed, S.H. Abhi, S.K. Sarker, S.K. Das, <em>M.M. Hasan</em>, M.M. Islam, M.R. Islam, ”Towards next generation digital twin in robotics: Trends, scopes, challenges, and future.” Heliyon (2023)</p><a href="/files/Journals/J3.pdf">PDF</a></li>
