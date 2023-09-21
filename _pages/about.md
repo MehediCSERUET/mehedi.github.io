@@ -48,6 +48,8 @@ Journals
 <hr>
 <ol>
 <li><em>M. M. Hasan</em>, M.A. Hossain, A.Y. Srizon, and A. Sayeed. "TaLU: A Hybrid Activation Function Combining Tanh and Rectified Linear Unit to Enhance Neural Networks." arXiv preprint arXiv:2305.04402 (2023).</li>
+
+<li>A. K. Shohug, M. H. Ovi, M. F. Ali, S. H. Abhi, S. K. Sarker, P. Das, <m>M. M. Hasan</em>, S. K. Das, M. M. Islam, M. R. Islam, S. I. Moyeen, M. F. R. Badal, M.H. Ahamed, “Enhancing Low Light Images with Deep Learning: A State-of-the-Art Review and Future Directions”, Patterns, Elsevier. [Under Review].</li>
       
 <li>A. Y. Srizon, M. A. Hossain, <em>M. M. Hasan</em>, A. Sayeed, “Bornomala-Net: An Attention-Based Low-Cost Convolutional Neural Network for Bengali Handwritten Character Recognition”, Pattern Analysis and Applications. Springer. [Under Review].</li>
 
@@ -68,6 +70,10 @@ Journals
 
 <li>B. J. Paul, A.Sarker, S.H. Abhi, S.K. Das, M. F. Ali, M. M. Islam, M. R. Islam, S.I. Moyeen, M.F.R. Badal, M. H. Ahmed, S.K. Sarker, P.Das, <em>M. M. Hasan</em>, N.Saqib, "Potential Smart Grid Vulnerabilities to Cyber Attacks: Current Threats and Existing Mitigation Strategies", Heliyon, Elsevier [Under Review]
 </li>
+
+<li>M. A. Islam, L. Talukder, M. F. Ali, S. K. Sarker, S M Muyeen, P. Das, <em>M. M. Hasan</em>, S. K. Das, M. M. Islam, M. R. Islam, S. I. Moyeen, F. R. Badal, M. H. Ahamed, S. H. Abhi, "A review on Self-Healing featured Soft Robotics", Frontiers in Robotics and AI, section Soft Robotics.</li>
+        
+
 <li><p>A.R. Anik, K. Islam, M. Islam, <em>M.M. Hasan</em>, S.K. Das and M.F. Ali, ”Non-invasive Portable Technologies for Monitoring Breast Cancer Related Lymphedema to Facilitate Telehealth: A Scoping Review”, IEEE Journal of Biomedical and Health Informatics (J-BHI), 2023.</p><a href="/files/Journals/J1.pdf">PDF</a></li>
 <li><p>S.H. Chowdhury, M. Sany, M. Ahamed, S.K. Das, F.R. Badal, P. Das, Z. Tasneem, <em>M.M. Hasan</em>, M. Islam, M. Ali, and S.H. Abhi, ”A State-of-the-Art Computer Vision Adopting Non-Euclidean Deep-Learning Models”, International Journal of Intelligent Systems, 2023.</p><a href="/files/Journals/J2.pdf">PDF</a></li>
 <li><p>A. Mazumder, M.F. Sahed, Z. Tasneem, P. Das, F.R. Badal, M.F. Ali, M.H. Ahamed, S.H. Abhi, S.K. Sarker, S.K. Das, <em>M.M. Hasan</em>, M.M. Islam, M.R. Islam, ”Towards next generation digital twin in robotics: Trends, scopes, challenges, and future.” Heliyon (2023)</p><a href="/files/Journals/J3.pdf">PDF</a></li>
